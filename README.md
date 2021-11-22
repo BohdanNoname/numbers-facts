@@ -1,7 +1,7 @@
 # numbers-facts
 
-*di - Hilt
-*Network Connection - retrofit
-*DataBase - room
-*ui - Jetpack Compose
-*PL - Kotlin
+* di - Hilt
+* Network Connection - retrofit
+* DataBase - room
+* ui - Jetpack Compose
+* PL - Kotlin
